@@ -1,5 +1,5 @@
 # quizy
 A simple quiz app made with react js <br>
-The app is using react-router-dom that is the reason I am not using github pages
-There are a lot of bugs to be fixed but since time was short I could not fix them
+The app is using react-router-dom that is the reason I am not using github pages <br>
+There are a lot of bugs to be fixed but since time was short I could not fix them <br>
 Some features are not completed
